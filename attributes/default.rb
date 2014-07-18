@@ -1,1 +1,1 @@
-default["PCI"]["in_scope"] = false
+default["pci"]["in_scope"] = false
